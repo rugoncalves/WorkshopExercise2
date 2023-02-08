@@ -51,8 +51,8 @@
         <framework src="com.android.support:support-v4:24.1.1+" />
 
         <source-file src="src/android/DocumentPreview.java" target-dir="src/com/outsystems/documentpreview" />
-        <source-file src="src/FileProvider.java" target-dir="src/com/outsystems/documentpreview" />
-        <source-file src="src/xml/document_preview_provider_paths.xml" target-dir="res/xml" />
+        <source-file src="src/android/FileProvider.java" target-dir="src/com/outsystems/documentpreview" />
+        <source-file src="src/android/xml/document_preview_provider_paths.xml" target-dir="res/xml" />
     </platform>
     
 </plugin>
