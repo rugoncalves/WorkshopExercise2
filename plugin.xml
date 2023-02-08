@@ -8,7 +8,7 @@
     <name>DocumentPreview</name>
     
     <js-module name="DocumentPreview" src="www/DocumentPreview.js">
-        <clobbers target="" />
+        <clobbers target="DocumentPreviewRUG" />
     </js-module>
     
     <platform name="ios">
